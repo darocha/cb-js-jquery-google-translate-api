@@ -1,0 +1,22 @@
+{
+  "name": "cb-jquery-google-translate-api",
+  "authors": [
+    "ICodeMyOwnLife <icodemyownlife@gmail.com>"
+  ],
+  "description": "Extend jQuery.translate to use Google Translate API",
+  "main": "jquery-google-translate-api.js",
+  "keywords": [
+    "jQuery",
+    "google",
+    "translate"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ICodeMyOwnLife/cb-js-jquery-google-translate-api",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
