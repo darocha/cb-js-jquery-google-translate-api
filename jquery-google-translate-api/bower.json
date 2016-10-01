@@ -11,12 +11,13 @@
     "translate"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ICodeMyOwnLife/cb-js-jquery-google-translate-api",
+  "homepage": "https://github.com/ICodeMyOwnLife/cb-js-jquery-google-translate-api.git",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "version": "0.0.1"
 }
