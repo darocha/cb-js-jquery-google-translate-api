@@ -115,7 +115,7 @@
     };
   }
 
-  jQuery.prototype.translate = function(source, from, to, callback) {
+  jQuery.translate = function(source, from, to, callback) {
     from = getLanguageCode(from);
     to = getLanguageCode(to);
     const qs = {
@@ -139,5 +139,5 @@
       });
   };
 
-  jQuery.prototype.translate.languages = languages;
+  jQuery.translate.languages = languages;
 })();
